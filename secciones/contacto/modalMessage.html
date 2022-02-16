@@ -1,0 +1,81 @@
+  <div class="fixed-action-btn horizontal">
+    <a class="btn-floating btn-large " href="#message">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+    
+  </div>
+<div class="container">
+<div class="row" id="message">
+      <form ng-if="!resp && !sendingResp" class="col s12" ng-submit="sendMessage()">
+          <div class="card">
+             <div class="card-content">
+              <span class="card-title">Déjame un mensaje</span>
+               <div class="row">
+                  <div class="input-field col s12">
+                  
+                  
+                      <input id="nombre" type="text" ng-model="msg.nombre" required>
+                      <label for="nombre" >Tu nombre:</label>
+                  
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <textarea id="textarea1" ng-model="msg.message" class="materialize-textarea" required></textarea>
+                    <label for="textarea1">Déjame un mensaje</label>
+                  </div>
+                </div>
+                 <div class="row">
+                  <div class="input-field col s12">
+                  
+                  
+                      <input id="email" type="email" ng-model="msg.email" class="validate" required>
+                      <label for="email" data-error="email inválido" data-success="email correcto" >email</label>
+                  
+                  </div>
+                </div>
+             </div>
+             <div class="card-action">
+                   <div class="row">
+                     <div class="input-field col s12">
+                      
+                         <button type="submit" class="waves-effect waves-light btn"><i class="material-icons right">send</i>enviar</button>
+                  
+                    </div>
+                </div>
+            </div>
+          
+       </div>
+      </form>
+
+    <div ng-if="resp" class="row">
+      <div class="col s12 m6">
+        <div class="card ">
+          <div class="card-content">
+            <span class="card-title">GRACIAS!</span>
+            <p>{{resp}}</p>
+            
+            <i class="material-icons" style="font-size: 13em;color:green;">check</i>
+          </div>
+          <div class="card-action">
+            <!--<a href="#">This is a link</a>
+            <a href="#">This is a link</a>-->
+          </div>
+        </div>
+      </div>
+    </div>
+      <div ng-if="sendingResp" class="row">
+      <div class="col s12 m6">
+        <div class="card ">
+          <div class="card-content">
+           <div class="progress">
+              <div class="indeterminate"></div>
+          </div>
+          
+          </div>
+    
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
