@@ -1,0 +1,46 @@
+<div class="row">
+	<!--player FIXED-->
+		
+			<div id="videoFrame"  ng-show="yt.videoid != '' " >
+				<!-- X-->
+				<div class=" close pointer closeVideoIcon" ng-click="closeFrame()"  ><i style="font-size: 4em" class="material-icons">cancel</i></div> 
+				
+				<youtube   width="{{yt.width}}" height="{{yt.height}}" videoid="{{yt.videoid}}"></youtube>
+				<div class="row" style="text-align: center;"><i style="font-size: 2em;">{{playing_name}}</i></div>
+			</div>
+	
+	
+
+
+
+
+		<div class="col l6 " id="portada_video" style="position: fixed;bottom: 0;    z-index: -1;">
+			<h2 style="border-bottom: 8px dotted #eee;    " ng-show="thinking != '' ">{{thinking}}</h2>
+			<img src="secciones/video/img/video1.jpg" alt="imagen video" width="77%" />
+		</div>
+	
+
+
+	<!--grilla opcion 2 -->
+	<div class="col xl3 offset-xl8 l4 offset-l8 m3 offset-m9 s10 offset-s1" style="margin-top: 6em; ">
+		<div id="grilla_videos"   class="" ng-show="yt.videoid == ''" >
+			<div id="grilla_wrapper" style=" max-height: 537px; " >
+				
+					<div   class="pointer " ng-repeat="video in videos" ng-mouseleave="borra_titulo() " ng-mouseover="call_titulo(video.titulo)" ng-click="playVideo(video)" style="margin-bottom: 1em" >
+							<!--
+								<a class="btn btn-floating btn-large ">
+									<i style="vertical-align: middle;font-size: 2em" class="material-icons ">video_library </i> 
+								</a>	
+							-->
+							<img  class="z-depth-4" width="100%" ng-src="{{video.src_thumb }}" alt = "imagen {{video.titulo}}"/>
+						
+					</div> 
+					
+				<!--<div><i class="material-icons ">arrow_drop_down</i></div>-->
+			</div>
+		</div>
+		
+	</div>
+
+</div>
+<!--	<script src="https://apis.google.com/js/client.js?onload=handleClientLoad"></script>-->

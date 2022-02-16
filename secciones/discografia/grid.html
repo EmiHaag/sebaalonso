@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="container">
+        <div class="col s12">
+            <img src="secciones/discografia/img/discografia.png" style="width: 100%" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col s12 m4 l3 xl3" ng-repeat="item in discografia  | orderObjectBy:'anio'" ng-mouseleave="hoverOut()">
+        <div class="card">
+            <div class="card-image">
+                <img src="images/sample-1.jpg" ng-click="callPlayer(item)" ng-src="{{item.img_src}}" class="reveal-animation z-depth-4" ng-mouseover="hoverIn()">
+                <span class="popup" ng-show="hoverEdit">
+                    <h5>{{item.autor}}</h5><i>{{item.descripcion}}</i><i style="font-size: 1.3em">{{item.anio}}</i>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>

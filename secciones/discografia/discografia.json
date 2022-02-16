@@ -1,0 +1,915 @@
+[
+
+    {
+        "img_src": "secciones/discografia/img/ticocamaru.jpg",
+        "nombre_disco": "Música popular brasilera",
+        "fuente": "#",
+        "autor": "TicoCaMaru",
+        "anio": "2006",
+        "tracks": [
+        {
+            "nombre": "Samba do Soho",
+            "url": "secciones/discografia/tracks/ticocamaru/Samba do Soho.mp3"
+        },
+        {
+            "nombre": "Astronauta",
+            "url": "secciones/discografia/tracks/ticocamaru/Astronauta.mp3"
+        },
+        {
+            "nombre": "O pato",
+            "url": "secciones/discografia/tracks/ticocamaru/O pato.mp3"
+        },
+        {
+            "nombre": "Morro dois Irmaos",
+            "url": "secciones/discografia/tracks/ticocamaru/Morro dois Irmaos.mp3"
+        },
+        {
+            "nombre": "Futuros amantes",
+            "url": "secciones/discografia/tracks/ticocamaru/Futuros amantes.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/by Sebastian Coronel & The Corners.jpg",
+        "nombre_disco": "el museo del dolor portada",
+        "fuente": "https://sebastiancoronel.bandcamp.com/",
+        "autor": "Sebastian Coronel & The Corners",
+        "anio": "2009",
+        "tracks": [
+        {
+            "nombre": "Chasque Chasque",
+            "url": "secciones/discografia/tracks/Coronel/Chasque Chasque.mp3"
+        },
+        {
+            "nombre": "De algún modo",
+            "url": "secciones/discografia/tracks/Coronel/De algun modo.mp3"
+        },
+        {
+            "nombre": "La verdad",
+            "url": "secciones/discografia/tracks/Coronel/La verdad.mp3"
+        },
+        {
+            "nombre": "Las esquinas",
+            "url": "secciones/discografia/tracks/Coronel/Las esquinas.mp3"
+        },
+        {
+            "nombre": "Lo que quiso decir",
+            "url": "secciones/discografia/tracks/Coronel/Lo que quiso decir.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/saturno.jpg",
+        "nombre_disco": "♄",
+        "fuente": "https://saturno.bandcamp.com/album/saturno",
+        "autor": "Saturno",
+        "anio": "2009",
+        "tracks": [
+        {
+            "nombre": "Saturno",
+            "url": "secciones/discografia/tracks/Saturno/saturno.mp3"
+        },
+        {
+            "nombre": "Visión",
+            "url": "secciones/discografia/tracks/Saturno/vision.mp3"
+        },
+        {
+            "nombre": "Es por amor (cuando un robot llora se vuelve humano)",
+            "url": "secciones/discografia/tracks/Saturno/es por amor.mp3"
+        },
+        {
+            "nombre": "Avión",
+            "url": "secciones/discografia/tracks/Saturno/avion.mp3"
+        },
+        {
+            "nombre": "Creer",
+            "url": "secciones/discografia/tracks/Saturno/creer.mp3"
+        },
+        {
+            "nombre": "Niño diablo",
+            "url": "secciones/discografia/tracks/Saturno/ninio diablo.mp3"
+        },
+        {
+            "nombre": "Es lo más",
+            "url": "secciones/discografia/tracks/Saturno/es lo mas.mp3"
+        },
+        {
+            "nombre": "Péndulo",
+            "url": "secciones/discografia/tracks/Saturno/pendulo.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/ta_bom.jpg",
+        "nombre_disco": "Música popular brasilera",
+        "fuente": "#",
+        "autor": "Tá bom",
+        "anio": "2009",
+        "tracks": [
+        {
+            "nombre": "O sol nascera (Cartola/Elton Menezes)",
+            "url": "secciones/discografia/tracks/ta_bom/O_sol_nascer_.mp3"
+        },
+        {
+            "nombre": "É com esse que eu vou (Pedro Caetano)",
+            "url": "secciones/discografia/tracks/ta_bom/E_com_esse_que_eu_vou.mp3"
+        },
+        {
+            "nombre": "Medo_de_amar (Vinicius de Moraes)",
+            "url": "secciones/discografia/tracks/ta_bom/Medo_de_amar.mp3"
+        },
+        {
+            "nombre": "Falsa baiana (Geraldo Pereira)",
+            "url": "secciones/discografia/tracks/ta_bom/Falsa_Baiana.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/mancomunados.jpg",
+        "nombre_disco": "Mancomunados",
+        "fuente": "#",
+        "autor": "Javier Fiori Toril",
+        "anio": "2010",
+        "tracks": [
+        {
+            "nombre": "Justo aquí",
+            "url": "secciones/discografia/tracks/mancomunados/04 Justo aquí.mp3"
+        },
+        {
+            "nombre": "Liberación",
+            "url": "secciones/discografia/tracks/mancomunados/06 Liberación.mp3"
+        },
+        {
+            "nombre": "11 Viaje infinito (versión de Mancomunados)",
+            "url": "secciones/discografia/tracks/mancomunados/11 Viaje infinito (versión de Mancomunados).mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/anenbi.jpg",
+        "nombre_disco": "come flores",
+        "fuente": "https://anenbi.bandcamp.com/album/come-flores",
+        "autor": "Anenbí",
+        "anio": "2010",
+        "tracks": [
+        {
+            "nombre": "Come flores",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - come flores.mp3"
+        },
+        {
+            "nombre": "De li si mai",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - de li si mai.mp3"
+        },
+        {
+            "nombre": "En aire floto",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - en aire floto.mp3"
+        },
+        {
+            "nombre": "Nada",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - nada.mp3"
+        },
+        {
+            "nombre": "Momo",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - momo.mp3"
+        },
+        {
+            "nombre": "Encuartifunk",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - encuartifunk.mp3"
+        },
+        {
+            "nombre": "Y..",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - y.mp3"
+        },
+        {
+            "nombre": "Rafo",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - rafo.mp3"
+        },
+        {
+            "nombre": "Distraída",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - distraída.mp3"
+        },
+        {
+            "nombre": "Muertísima",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - muertisíma.mp3"
+        },
+        {
+            "nombre": "Menendí",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - menendí.mp3"
+        },
+        {
+            "nombre": "Canción de cuna",
+            "url": "secciones/discografia/tracks/anenbi/anenbí - canción de cuna.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/pablo_matias_vidal.jpg",
+        "nombre_disco": "Verano",
+        "fuente": "https://pablomatiasvidal.bandcamp.com/album/verano",
+        "autor": "Pablo Matias Vidal",
+        "anio": "2011",
+        "tracks": [
+        {
+            "nombre": "Verano",
+            "url": "secciones/discografia/tracks/pablo/Verano.mp3"
+        },
+        {
+            "nombre": "Coxis",
+            "url": "secciones/discografia/tracks/pablo/Coxis.mp3"
+        },
+        {
+            "nombre": "El viento tiró tu antena",
+            "url": "secciones/discografia/tracks/pablo/El viento tiró tu antena.mp3"
+        },
+        {
+            "nombre": "Queda un respiro",
+            "url": "secciones/discografia/tracks/pablo/Queda un respiro.mp3"
+        },
+        {
+            "nombre": "Irene III",
+            "url": "secciones/discografia/tracks/pablo/Irene III.mp3"
+        },
+        {
+            "nombre": "Funeral",
+            "url": "secciones/discografia/tracks/pablo/Funeral.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/de un sur.jpg",
+        "nombre_disco": "DE UN SUR",
+        "fuente": "https://deunsur.bandcamp.com/",
+        "autor": "DE UN SUR",
+        "anio": "2012",
+        "tracks": [
+        {
+            "nombre": "Hay quien",
+            "url": "secciones/discografia/tracks/de un sur/Hay quien.mp3"
+        },
+        {
+            "nombre": "Oigo",
+            "url": "secciones/discografia/tracks/de un sur/Oigo.mp3"
+        },
+        {
+            "nombre": "Tal vez el tiempo",
+            "url": "secciones/discografia/tracks/de un sur/Tal vez el tiempo.mp3"
+        },
+        {
+            "nombre": "Arde en rojo",
+            "url": "secciones/discografia/tracks/de un sur/Arde en rojo.mp3"
+        },
+        {
+            "nombre": "Palimpsesto",
+            "url": "secciones/discografia/tracks/de un sur/Palimpsesto.mp3"
+        },
+        {
+            "nombre": "Elogio",
+            "url": "secciones/discografia/tracks/de un sur/Elogio.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/rivero.jpg",
+        "nombre_disco": "El fulgor",
+        "fuente": "https://riveroyelmico.bandcamp.com/album/el-fulgor-2",
+        "autor": "Rivero y el mico",
+        "anio": "2012",
+        "tracks": [
+        {
+            "nombre": "Caminaba",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Caminaba.mp3"
+        },
+        {
+            "nombre": "La sombra",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - La sombra.mp3"
+        },
+        {
+            "nombre": "Para poder seguir",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Para poder seguir.mp3"
+        },
+        {
+            "nombre": "Si en tus ojos",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Si en tus ojos.mp3"
+        },
+        {
+            "nombre": "El fulgor",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - El fulgor.mp3"
+        },
+        {
+            "nombre": "Todo está en vos",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Todo esta en vos.mp3"
+        },
+        {
+            "nombre": "Obscenos",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Obscenos.mp3"
+        },
+        {
+            "nombre": "Para en otro sueño despertar",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Para en otro sueño despertar.mp3"
+        },
+        {
+            "nombre": "En algun lugar",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - En algun lugar.mp3"
+        },
+        {
+            "nombre": "Naif",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Naif.mp3"
+        },
+        {
+            "nombre": "Ahi voy",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Ahi voy.mp3"
+        },
+        {
+            "nombre": "Sur del mundo",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Sur del mundo.mp3"
+        },
+        {
+            "nombre": "Temprano",
+            "url": "secciones/discografia/tracks/rivero/Rivero y el mico - Temprano.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/wonderboy.jpg",
+        "nombre_disco": "Wonderboy groovin' band",
+        "fuente": "https://www.facebook.com/wonderboygb",
+        "autor": "Wonderboy groovin' band",
+        "anio": "2012",
+        "tracks": [
+        {
+            "nombre": "You know what I want",
+            "url": "secciones/discografia/tracks/wonderboy/01 - You Know What I Want (Wonderboy Groovin´ Band).mp3"
+        },
+        {
+            "nombre": "Venus",
+            "url": "secciones/discografia/tracks/wonderboy/02 - Venus (Wonderboy Groovin´ Band).mp3"
+        },
+        {
+            "nombre": "Point of view",
+            "url": "secciones/discografia/tracks/wonderboy/03 - Point Of View (Wonderboy Groovin´ Band).mp3"
+        },
+        {
+            "nombre": "Dónde voy",
+            "url": "secciones/discografia/tracks/wonderboy/Donde voy.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/garmendia.jpg",
+        "nombre_disco": "Garmendia",
+        "fuente": "https://garmendia.bandcamp.com/",
+        "autor": "Garmendia",
+        "anio": "2013",
+        "tracks": [
+        {
+            "nombre": "Hasta el cielo",
+            "url": "secciones/discografia/tracks/garmendia/Garmendia - Hasta el cielo.mp3"
+        },
+        {
+            "nombre": "Erarure",
+            "url": "secciones/discografia/tracks/garmendia/Garmendia - Erarure.mp3"
+        },
+        {
+            "nombre": "Pompeya",
+            "url": "secciones/discografia/tracks/garmendia/Garmendia - Pompeya.mp3"
+        },
+        {
+            "nombre": "El tiempo",
+            "url": "secciones/discografia/tracks/garmendia/Garmendia - El Tiempo.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/lostotorasinmirar.jpg",
+        "nombre_disco": "Sin mirar atrás",
+        "fuente": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi",
+        "autor": "Los totora",
+        "anio": "2013",
+        "tracks": []
+    },
+    {
+        "img_src": "secciones/discografia/img/matias kekes.jpg",
+        "nombre_disco": "Bien",
+        "fuente": "https://matiaskekeslopez.bandcamp.com/album/bien",
+        "autor": "Matias Kekes Lopez",
+        "anio": "2014",
+        "tracks": [
+        {
+            "nombre": "Desarmar",
+            "url": "secciones/discografia/tracks/kekes/Desarmar.mp3"
+        },
+        {
+            "nombre": "Abrir cerrar",
+            "url": "secciones/discografia/tracks/kekes/Abrir cerrar.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/rulli_el_museo_del_dolor.jpg",
+        "nombre_disco": "El Museö del dôlôr (08) -sanación-",
+        "fuente": "https://srulli.bandcamp.com/album/el-muse-del-d-l-r-08-sanaci-n",
+        "autor": "Sâr Rulli",
+        "anio": "2014",
+        "tracks": [
+        {
+            "nombre": "Comienzo (baterías y puertas del museo)",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/01Comienzo (baterías y puertas del museo).mp3"
+        },
+        {
+            "nombre": "ô Ô ô (EarlGrey-Perdí-Perfectamáquinadeltiempo)",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/02ô Ô ô (EarlGrey-Perdí-Perfectamáquinadeltiempo).mp3"
+        },
+        {
+            "nombre": "Sara",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/03Sara.mp3"
+        },
+        {
+            "nombre": "El Violín Vidente",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/04El Violín Vidente.mp3"
+        },
+        {
+            "nombre": "Las Cuentas del Museo",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/05Las Cuentas del Museo.mp3"
+        },
+        {
+            "nombre": "Dondever (El resplandor de la Sombra)",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/06Dondever (El resplandor de la Sombra).mp3"
+        },
+        {
+            "nombre": "Envísperasdelfindelmundo",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/07Envísperasdelfindelmundo.mp3"
+        },
+        {
+            "nombre": "Nadaimporta",
+            "url": "secciones/discografia/tracks/rulli/el museo del dolor/08Nadaimporta.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/rulli_pcra.jpg",
+        "nombre_disco": "La PCra del océano (08)",
+        "fuente": "https://srulli.bandcamp.com/album/la-pcra-del-oc-ano-08",
+        "autor": "Sâr Rulli",
+        "anio": "2014",
+        "tracks": [
+        {
+            "nombre": "llasimple",
+            "url": "secciones/discografia/tracks/rulli/pcra/01llasimple.mp3"
+        },
+        {
+            "nombre": "caxaaa (nuestra querida casa -F.Cabral)",
+            "url": "secciones/discografia/tracks/rulli/pcra/02caxaaa (nuestra querida casa -F.Cabral).mp3"
+        },
+        {
+            "nombre": "Ouquejo5oyparlanchín",
+            "url": "secciones/discografia/tracks/rulli/pcra/03Ouquejo5oyparlanchín.mp3"
+        },
+        {
+            "nombre": "mmmm",
+            "url": "secciones/discografia/tracks/rulli/pcra/04mmmm.mp3"
+        },
+        {
+            "nombre": "Cinamon",
+            "url": "secciones/discografia/tracks/rulli/pcra/05Cinamon.mp3"
+        },
+        {
+            "nombre": "Samba",
+            "url": "secciones/discografia/tracks/rulli/pcra/06Samba.mp3"
+        },
+        {
+            "nombre": "A un poeta de las torres que toma vino en los tanques (Monoblock -S.G)",
+            "url": "secciones/discografia/tracks/rulli/pcra/07A un poeta de las torres que toma vino en los tanques (Monoblock -S.G).mp3"
+        },
+        {
+            "nombre": "Paredlpasaje (cinematografreaik)",
+            "url": "secciones/discografia/tracks/rulli/pcra/08Paredlpasaje (cinematografreaik).mp3"
+        },
+        {
+            "nombre": "Gatoleón",
+            "url": "secciones/discografia/tracks/rulli/pcra/09Gatoleón.mp3"
+        },
+        {
+            "nombre": "Offhawaii",
+            "url": "secciones/discografia/tracks/rulli/pcra/10Offhawaii.mp3"
+        },
+        {
+            "nombre": "Virgilio en el error",
+            "url": "secciones/discografia/tracks/rulli/pcra/11Virgilio en el error.mp3"
+        },
+        {
+            "nombre": "Completo de nuevo",
+            "url": "secciones/discografia/tracks/rulli/pcra/12Completo de nuevo.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/victoria_perez.jpg",
+        "nombre_disco": "",
+        "fuente": "",
+        "autor": "Victoria Pérez ",
+        "anio": "2014",
+        "tracks": [
+        {
+            "nombre": "Don´t know why",
+            "url": "secciones/discografia/tracks/victoria/Don´t know why.mp3"
+        },
+        {
+            "nombre": "Eu sei que vou te amar",
+            "url": "secciones/discografia/tracks/victoria/Eu sei que vou te amar.mp3"
+        },
+        {
+            "nombre": "Mais que nada",
+            "url": "secciones/discografia/tracks/victoria/Mais que nada.mp3"
+        },
+        {
+            "nombre": "Summertime",
+            "url": "secciones/discografia/tracks/victoria/Summertime.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/chango enriquez.jpg",
+        "nombre_disco": "Personas y blanditos Vol​.​1",
+        "fuente": "https://changoenriquez.bandcamp.com/album/personas-y-blanditos-vol-1",
+        "autor": "Chango Enriquez",
+        "anio": "2015",
+        "tracks": [
+        {
+            "nombre": "Constitución",
+            "url": "secciones/discografia/tracks/chango/Constitución.mp3"
+        },
+        {
+            "nombre": "La vereda",
+            "url": "secciones/discografia/tracks/chango/La vereda.mp3"
+        },
+        {
+            "nombre": "Leocadio el jetón Parte 2 (kaossilator)",
+            "url": "secciones/discografia/tracks/chango/Leocadio el jetón Parte 2.mp3"
+        },
+        {
+            "nombre": "Perro Falopa",
+            "url": "secciones/discografia/tracks/chango/Perro Falopa.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/tremendo_pagode.jpg",
+        "nombre_disco": "Samba y pagode",
+        "fuente": "https://www.facebook.com/pg/Tremendo-Pagode-616818325022447",
+        "autor": "Tremendo pagode",
+        "anio": "2015",
+        "tracks": [
+        {
+            "nombre": "Som das multidoes",
+            "url": "secciones/discografia/tracks/tremendo_pagode/Som das multidoes.mp3"
+        },
+        {
+            "nombre": "Teu jogo-Xirè-Despedida",
+            "url": "secciones/discografia/tracks/tremendo_pagode/Teu jogo-Xirè-Despedida.mp3"
+        },
+        {
+            "nombre": "Vem dançar mestizo",
+            "url": "secciones/discografia/tracks/tremendo_pagode/Vem dançar mestizo.mp3"
+        },
+        {
+            "nombre": "Xonou xonou",
+            "url": "secciones/discografia/tracks/tremendo_pagode/Xonou xonou.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/lostotoracuestiondetiempo.jpg",
+        "nombre_disco": "Cuestión de tiempo",
+        "fuente": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw",
+        "autor": "Los totora",
+        "anio": "2015",
+        "tracks": []
+    },
+    {
+        "img_src": "secciones/discografia/img/larraz.jpg",
+        "nombre_disco": "",
+        "fuente": "https://soundcloud.com/estudiopg/gabriel-larraz-sobre-la-ciudad",
+        "autor": "Gabriel Larraz",
+        "anio": "2015",
+        "tracks": [
+        {
+            "nombre": "Sobre la ciudad",
+            "url": "secciones/discografia/tracks/larraz/Gabriel Larraz - Sobre la ciudad.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/nakazato.jpg",
+        "nombre_disco": "LUZ AL INSTANTE",
+        "fuente": "https://soundcloud.com/gaston_nakazato/aladin-sencillo-deseo-versi-n",
+        "autor": "Gastón Nakazato",
+        "anio": "2016",
+        "tracks": [
+        {
+            "nombre": "ALADIN",
+            "url": "secciones/discografia/tracks/nakazato/ALADIN.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/libra_al_sol.jpg",
+        "nombre_disco": "Libra al sol",
+        "fuente": "https://www.youtube.com/watch?v=J2JnlYsTR2k",
+        "autor": "Martina Centurión",
+        "anio": "2016",
+        "tracks": [
+        {
+            "nombre": "El amor no necesita máster",
+            "url": "secciones/discografia/tracks/martina/09_El_amor_no_necesita_Master_2160909R1.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/Rivero-orbita.jpg",
+        "nombre_disco": "Órbita",
+        "fuente": "https://jesurivero.bandcamp.com/",
+        "autor": "Jesu Rivero",
+        "anio": "2018",
+        "tracks": [
+        {
+            "nombre": "Gallo cantor",
+            "url": "secciones/discografia/tracks/rivero-orbita/01Gallo cantor.mp3"
+        },
+        {
+            "nombre": "En la radio",
+            "url": "secciones/discografia/tracks/rivero-orbita/02En la radio.mp3"
+        },
+        {
+            "nombre": "Las gaviotas",
+            "url": "secciones/discografia/tracks/rivero-orbita/03Jésu Rivero - Las gaviotas.mp3"
+        },
+        {
+            "nombre": "Perfecto gorilón",
+            "url": "secciones/discografia/tracks/rivero-orbita/04Jésu Rivero - Perfecto gorilón.mp3"
+        },
+        {
+            "nombre": "Cuéntame",
+            "url": "secciones/discografia/tracks/rivero-orbita/05Jésu Rivero - Cuéntame.mp3"
+        },
+        {
+            "nombre": "Mas fuerte",
+            "url": "secciones/discografia/tracks/rivero-orbita/06Jésu Rivero - Mas fuerte.mp3"
+        },
+        {
+            "nombre": "Postigos",
+            "url": "secciones/discografia/tracks/rivero-orbita/07Jésu Rivero - Postigos.mp3"
+        },
+        {
+            "nombre": "Leticia",
+            "url": "secciones/discografia/tracks/rivero-orbita/08Jésu Rivero - Leticia.mp3"
+        },
+        {
+            "nombre": "La chica",
+            "url": "secciones/discografia/tracks/rivero-orbita/09Jésu Rivero - La chica.mp3"
+        },
+        {
+            "nombre": "Preciosa y muy linda",
+            "url": "secciones/discografia/tracks/rivero-orbita/10Jésu Rivero - Preciosa y muy linda.mp3"
+        },
+        {
+            "nombre": "Tu huella en mí",
+            "url": "secciones/discografia/tracks/rivero-orbita/11Jésu Rivero - Tu huella en mí.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/inclan.jpg",
+        "nombre_disco": "LAS CANCIONES POSIBLES",
+        "fuente": "https://emiliainclan.bandcamp.com/",
+        "autor": "Emilia Inclán",
+        "anio": "2018",
+        "tracks": [
+        {
+            "nombre": "Las ciudades venideras",
+            "url": "secciones/discografia/tracks/inclan/1.Las ciudades venideras.mp3"
+        },
+        {
+            "nombre": "Golondrinas",
+            "url": "secciones/discografia/tracks/inclan/2.Golondrinas.mp3"
+        },
+        {
+            "nombre": "Poniente",
+            "url": "secciones/discografia/tracks/inclan/3.Poniente.mp3"
+        },
+        {
+            "nombre": "Agua y fuego",
+            "url": "secciones/discografia/tracks/inclan/4.Agua y fuego.mp3"
+        },
+        {
+            "nombre": "Caracol",
+            "url": "secciones/discografia/tracks/inclan/5.Caracol.mp3"
+        },
+        {
+            "nombre": "Viento más allá (feat. Jeaninne Martin)",
+            "url": "secciones/discografia/tracks/inclan/6.Viento más allá (feat. Jeaninne Martin).mp3"
+        },
+        {
+            "nombre": "Avenidas",
+            "url": "secciones/discografia/tracks/inclan/7.Avenidas.mp3"
+        },
+        {
+            "nombre": "Si este canto (feat. Mono Fontana)",
+            "url": "secciones/discografia/tracks/inclan/8.Si este canto (feat. Mono Fontana).mp3"
+        },
+        {
+            "nombre": "Habrán crecido las naranjas",
+            "url": "secciones/discografia/tracks/inclan/9.Habrán crecido las naranjas.mp3"
+        },
+        {
+            "nombre": "Casa",
+            "url": "secciones/discografia/tracks/inclan/10.Casa.mp3"
+        },
+        {
+            "nombre": "Las luces",
+            "url": "secciones/discografia/tracks/inclan/11.Las luces.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/coronel_claro_lunar.jpg",
+        "nombre_disco": "CLARO LUNAR (EP)",
+        "fuente": "https://www.youtube.com/watch?v=XoK7yWwFRbw",
+        "autor": "Seba Coronel",
+        "anio": "2018",
+        "tracks": [
+        {
+            "nombre": "Claro lunar",
+            "url": "secciones/discografia/tracks/Coronel/claro_lunar/ClaroLunar.mp3"
+        },
+        {
+            "nombre": "El zorzal",
+            "url": "secciones/discografia/tracks/Coronel/claro_lunar/ElZorzal.mp3"
+        },
+        {
+            "nombre": "Los viejos",
+            "url": "secciones/discografia/tracks/Coronel/claro_lunar/LosViejos.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/puebla-intemperie.jpg",
+        "nombre_disco": "INTEMPERIE",
+        "fuente": "https://open.spotify.com/album/5nyf7hCJ0FvXTBFX4x0bJw",
+        "autor": "Puebla",
+        "anio": "2019",
+        "tracks": [
+        {
+            "nombre": "Antiguas",
+            "url": "secciones/discografia/tracks/puebla/Puebla - Antiguas.mp3"
+        },
+        {
+            "nombre": "Mañana en la batalla",
+            "url": "secciones/discografia/tracks/puebla/Puebla - Manana en la batalla.mp3"
+        },
+        {
+            "nombre": "Ruinas",
+            "url": "secciones/discografia/tracks/puebla/Puebla - Ruinas.mp3"
+        },
+        {
+            "nombre": "La casa",
+            "url": "secciones/discografia/tracks/puebla/Puebla - La Casa.mp3"
+        },
+        {
+            "nombre": "Ficciones",
+            "url": "secciones/discografia/tracks/puebla/Puebla - Ficciones.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/kahil-vengo.jpg",
+        "nombre_disco": "Vengo",
+        "fuente": "https://open.spotify.com/artist/3ITfYlwQbhB7vrvCYWsLhN",
+        "autor": "Kahil Ferraris",
+        "anio": "2019",
+        "tracks": [
+        {
+            "nombre": "Adicto",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - Adicto.mp3"
+        },
+        {
+            "nombre": "Lo más alto",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - Lo Mas Alto.mp3"
+        },
+        {
+            "nombre": "Pa mi gente",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - Pa Mi Gente.mp3"
+        },
+        {
+            "nombre": "No queda nada",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - No Queda Nada.mp3"
+        },
+        {
+            "nombre": "Esta noche",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - Esta Noche.mp3"
+        },
+        {
+            "nombre": "Soy quien soy",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - Soy Quien Soy.mp3"
+        },
+        {
+            "nombre": "Puedo",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - Puedo.mp3"
+        },
+        {
+            "nombre": "En un buen lugar",
+            "url": "secciones/discografia/tracks/KAHIL FERRARIS - VENGO/Kahil Ferraris - En un Buen Lugar.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/petti.jpg",
+        "nombre_disco": "Martín Petti",
+        "fuente": "https://open.spotify.com/artist/7fyxkJEyqvxGkYKGnNfdde",
+        "autor": "Martín Petti",
+        "anio": "2019",
+        "tracks": [
+        {
+            "nombre": "Hombre rosa",
+            "url": "secciones/discografia/tracks/MARTIN PETTI/1.mp3"
+        },
+        {
+            "nombre": "Gato",
+            "url": "secciones/discografia/tracks/MARTIN PETTI/2.mp3"
+        },
+        {
+            "nombre": "Dónde",
+            "url": "secciones/discografia/tracks/MARTIN PETTI/3.mp3"
+        },
+        {
+            "nombre": "Navemadre",
+            "url": "secciones/discografia/tracks/MARTIN PETTI/4.mp3"
+        },
+        {
+            "nombre": "Fauna",
+            "url": "secciones/discografia/tracks/MARTIN PETTI/5.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/dinastiacuadrado.jpg",
+        "nombre_disco": "La dinastía",
+        "fuente": "https://open.spotify.com/artist/0d3eUKE8Sz0jsSqkqKhV8t",
+        "autor": "La dinastía",
+        "anio": "2019",
+        "tracks": [
+        {
+            "nombre": "Ácido",
+            "url": "secciones/discografia/tracks/LA DINASTIA/6sh4Yf6ilYNj8MqS6RZ2UR.mp3"
+        },
+        {
+            "nombre": "No puedo detenerme",
+            "url": "secciones/discografia/tracks/LA DINASTIA/4bxe7LjVvWTeGi9AFlGwnm.mp3"
+        },
+        {
+            "nombre": "Dulce camaleón",
+            "url": "secciones/discografia/tracks/LA DINASTIA/26JOretLvS7wD1EVDl21p0.mp3"
+        },
+        {
+            "nombre": "Humo de miel(en vivo)",
+            "url": "secciones/discografia/tracks/LA DINASTIA/4biDlmwxJYVtMjDDa6QnbT.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/costi-eliggi.jpg",
+        "nombre_disco": "Lugar",
+        "fuente": "https://open.spotify.com/album/0Vqe1EgJpsgKrCEqey4HWO",
+        "autor": "Costi Eliggi",
+        "anio": "2019",
+        "tracks": [
+        {
+            "nombre": "Lugar",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/Costi Eliggi - Lugar.mp3"
+        },
+        {
+            "nombre": "Alicia",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/Costi Eliggi - Alicia.mp3"
+        },
+        {
+            "nombre": "Grafiti",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/Costi Eliggi - Grafiti.mp3"
+        },
+        {
+            "nombre": "Caracol",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/Costi Eliggi - Caracol.mp3"
+        },
+        {
+            "nombre": "Paraíso",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/2aVQg4l0ELZ0wPyyIN3hp9.mp3"
+        },
+        {
+            "nombre": "Cocoon",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/Costi Eliggi - Cocoon.mp3"
+        },
+        {
+            "nombre": "Cactus en flor",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/Costi Eliggi - Cactus en Flor.mp3"
+        },
+        {
+            "nombre": "Territorio",
+            "url": "secciones/discografia/tracks/COSTI-ELIGGI/Costi Eliggi - Territorio.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/hembra.jpg",
+        "nombre_disco": "Hembra",
+        "fuente": "https://open.spotify.com/track/5n8gi5bWutFw6qK6xwhUoi",
+        "autor": "Hembra",
+        "anio": "2019",
+        "tracks": [
+        {
+            "nombre": "Hembra",
+            "url": "secciones/discografia/tracks/HEMBRA/Hembra - Hembra.mp3"
+        }]
+    },
+    {
+        "img_src": "secciones/discografia/img/emilia.jpg",
+        "nombre_disco": "Emilia Inclán",
+        "fuente": "https://open.spotify.com/album/21jmRUKZXtDM42V1g0FakI",
+        "autor": "Emilia Inclán",
+        "anio": "2020",
+        "tracks": [
+        {
+            "nombre": "Remolinos",
+            "url": "secciones/discografia/tracks/EMILIA INCLAN/6JgnUCPx3pTpDm6iOyaipQ.mp3"
+        }]
+    }
+]

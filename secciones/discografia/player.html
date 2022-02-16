@@ -1,0 +1,62 @@
+<div ><a class="blink_me" ng-click="minimizePlayer()"><i  ng-bind-html="expand_icon" class="material-icons pointer"></i></a>
+<p> 
+	<span ng-show="minimized" ><span style="font-size: 1.2rem;">{{playing_song_name }}</span><i ng-click="pause()" style="margin-left: 0.5em" ng-bind-html="play_pause_icon" class="material-icons pointer"></i></span>
+</p>
+</div>
+<div class="card-panel grey lighten-5 z-depth-1"> 
+	<div class="row valign-wrapper card-content">  
+    	<div class="col s4">
+    		<img src="{{portada_player}}" alt="" class=" responsive-img materialboxed">   
+       </div>  
+       <div class="col s10">
+         <span class="black-text"> 
+         	
+         	<p style="font-size: 1.2em">link: <a  target="_blank" href="{{fuente_disco}}">{{autor + nombre_disco}}</a></p> 
+          <p ng-repeat="song_item in lista" class="pointer listSongs" >
+            <span class="songName" ng-click="playSelectedTrack(lista, $index)">
+              {{$index + 1}} - {{song_item.nombre}} 
+              <span class="material-icons"  style="position: absolute;left:120px" ng-hide="playing_song_name == song_item.nombre">play_arrow</span>
+              <i class="material-icons" ng-show="playing_song_name == song_item.nombre">pause</i>
+           </span>
+           <br>
+          
+          </p>
+         	
+       </div>
+    </div>
+    <div class="card-action z-depth-1" ng-if="playing_song_name != ''" style="    background-color: #eeeeee;    padding: 1em;">
+      <div id="controls">
+        <p ng-if="playing_song_name != ''" style="text-align: center;"><i ng-click="prev_song()"  class="material-icons pointer">chevron_left</i><i ng-click="pause()" ng-bind-html="play_pause_icon" class="material-icons pointer"></i><i ng-click="next_song()"  class="material-icons pointer">chevron_right</i></p>
+      </div>      
+      <p style="font-size: 1.5em; text-align: center;" ng-if="playing_song_name != ''" class="ng-show playing" >Suena: '{{playing_song_name }}'</p> 
+        <div>
+         <!-- <div ng-if="playing_song_name != ''" class="progress">
+            <div class="determinate"  style="width: {{currentPorcentaje}}%"></div>-->
+
+         <!-- </div>-->
+            <form ng-if="playing_song_name != ''"  action="#">
+              <p class="range-field">
+                <input style="width: 85%" type="range" ng-change="changeSongTime()" id="range" ng-model="range" id="test5" min="0" ng-value="{{currentTime}}" max="{{songLength}}" />
+                <i style="font-size: 0.7em">{{time}}</i>
+              </p>
+            </form>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+.songName span, .songName i{ vertical-align: -7px;}
+.songName>span{display: none;   }
+.songName:hover span{display: inline;}
+
+  #controls>p>i{
+    margin: 0.2em;
+    font-size: 1.4em;
+  }
+ 
+</style>
+
+<script>
+ $(document).ready(function(){
+    $('.materialboxed').materialbox();
+    });
+  </script>

@@ -1,0 +1,27 @@
+<span class="boton prev "><button ng-click="left()" class="waves-effect waves-light btn"><i class="material-icons">chevron_left</i></button></span>
+<div id="carrousel_wrap" style="background-position: 50% 11px;
+    background-image: url(secciones/discografia/img/discografia.png);
+    background-repeat: no-repeat;
+    background-size: 52em; " back-img="secciones/discografia/img/discografia.jpg">
+    <!-- /////  CARROUSEL CONTAINER ////// -->
+    <div id="carousel" style="left:{{left_car}}px; width: max-content;;">
+        <div class="row" id="carouselRow">
+            <!-- /// IMAGE CONTAINER REPEATER //// -->
+            <div id="imagenes" ng-mouseleave="hoverOut()" class="thumbnail  " ng-repeat="item in discografia | orderObjectBy:'anio'" style="width: 180px;     margin: 2em;    display: inline-block; width: {{maxWidth}}px">
+                <div class="row">
+                    <!--//// PROGRESS BAR ///-->
+                    <div ng-hide="item" class="progress">
+                        <div class="indeterminate"></div>
+                    </div>
+                    <!-- // IMAGE CARROUSEL //-->
+                    <img class="reveal-animation z-depth-4" ng-mouseover="hoverIn()" style="max-width: 180px " ng-click="callPlayer(item)" ng-src="{{item.img_src}}" />
+                    <!--/// CONTAINER INFO DISPLAY WHEN HOVER IT /// -->
+                    <span class="popup" ng-show="hoverEdit">
+                        <h5>{{item.autor}}</h5><i>{{item.descripcion}}</i><i style="font-size: 1.3em">{{item.anio}}</i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<span class="boton next "> <button ng-click="next()" class="waves-effect waves-light btn"><i class="material-icons">chevron_right</i></button> </span>
