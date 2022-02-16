@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" ng-app="myApp" class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Seba Alonso</title>
+    <!--meta tags-->
+    <meta http-equiv="content-language" content="es" />
+    <meta name="description" content="Bienvenidos a mi sitio web. Todo el contenido registrado de los diferentes proyectos en los que participé a lo largo de mi carrera como músico.   " />
+    <meta name="robots" content="index,follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="keywords" content="seba alonso, sebastian alonso, sitio web, musica, musicos, argentina, rock, pop, funk , salsa, indie, cantautores, la plata, olavarria, musicos de olavarria, musicos de la plata, musicos de argentina, bateria, bateristas, bateristas argentina, todos los dias, spotify, bandcamp" />
+    <meta name="author" content="Emiliano Haag" />
+    <link href="https://sebaalonso.com/secciones/intro/seba-portada-sin-pajaros.jpg" rel="image_src" />
+    <meta property="og:title" content="Sebastián Alonso" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://sebaalonso.com/secciones/intro/seba-portada-sin-pajaros.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:site_name" content="Sebastián Alonso" />
+    <!--end meta-->
+    <link rel="stylesheet" href="js/bower_components/html5-boilerplate/dist/css/normalize.css">
+    <link rel="stylesheet" href="js/bower_components/html5-boilerplate/dist/css/main.css">
+    <script src="js/bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!--estilos-->
+    <link rel="stylesheet" href="css/estilos.css">
+    <!--import Jquery-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Neucha" rel="stylesheet">
+    <!--    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700&amp;subset=latin-ext" rel="stylesheet">
+ fonts para body
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Cardo:400,700|Dekko|Delius|Rokkitt&amp;subset=latin-ext" rel="stylesheet">-->
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
+    <base href="/" />
+</head>
+
+<body ng-controller="MainController">
+    <span class="light_box" ng-show="light_box"></span>
+    <!--<span class="blink_me" style="color: #993b8d;
+    float: right;
+    font-size: 22px;
+    /* display: block; */
+    position: absolute;
+    right: 0;
+    margin: 1em;">En construcción!</span>-->
+    <!--//////  SIDE BAR ////////////-->
+    <ul id="slide-out" class="side-nav  ">
+        <li>
+            <a href="/">
+                <div class="userView" style="font-size: large">
+                    <div class="background">
+                    </div>
+                    <a class="waves-effect waves-light btn-large">
+                        <!--<img class="circle" src="media/img/seba_thumb1.png">--></a>
+                    <a><span><b>Seba Alonso</b></span></a>
+                </div>
+            </a>
+        </li>
+        <li style="    margin-top: 30%;"><a href="/bio" class="waves-effect waves-light btn-large"><i class="material-icons">subject</i>BIO</a></li>
+        <li><a href="/discografia" class="waves-effect waves-light btn-large"><i class="material-icons">cloud</i>MI DISCO</a></li>
+        <li><a href="/colaboraciones" class="waves-effect waves-light btn-large"><i class="material-icons">settings_voice</i>Colaboraciones</a></li>
+        <li><a href="/video" class="waves-effect waves-light btn-large"><i class="material-icons">video_library</i>VIDEO</a></li>
+        <li><a href="/contacto" class="waves-effect waves-light btn-large"><i class="material-icons">perm_phone_msg</i>CONTACTO</a></li>
+    </ul>
+    <!--MENU ICON COLLAPSE WHEN WINDOW WIDHT IS LESS THAN 992PX
+  <div style="margin:1em;position: fixed; top:1em;">
+    <a href="#" class="tap-target"  data-activates="slide-out" class="btn btn-floating pulse button-collapse  " ><i class="material-icons" >menu</i></a> 
+  </div>-->
+    <!-- Element Showed -->
+    <a id="menu" data-activates="slide-out" class="button-collapse waves-effect waves-light btn btn-floating"><i class="material-icons">menu</i></a>
+    <!-- Tap Target Structure -->
+    <div class="tap-target" data-activates="menu">
+        <div class="tap-target-content">
+            <h5>Menú</h5>
+        </div>
+    </div>
+    <!-- ///// CONTENIDO DINÁMICO //////////-->
+    <div ng-view id="contenedor" class="row container "></div>
+    <!--REPRODUCTOR audio colaboraciones controlado desde app.js-->
+    <player class=" player-before z-depth-4">player </player>
+    <!--IMPORT ANGULAR LIBS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
+    <script src="js/bower_components/angular-route/angular-route.min.js"></script>
+    <script src="https://code.angularjs.org/1.6.1/angular-sanitize.min.js"></script>
+    <!--IMPORT MATERIALIZE -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/js/materialize.min.js"></script>
+    <!--IMPORT SCRIPTS FROM APP -->
+    <script src="js/app.js"></script>
+    <script src="secciones/bio/bio.js"></script>
+    <script src="secciones/disco/disco_spotify.js"></script>
+    <script src="secciones/discografia/discografia.js"></script>
+    <script src="secciones/video/video.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+</body>
+
+</html>
+<script>
+$(document).ready(function() {
+
+    $('.tap-target').tapTarget('open');
+    $('.collapsible').collapsible();
+
+
+});
+</script>
