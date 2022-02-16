@@ -1,5 +1,3 @@
-'use strict';
-
 angular.module('myApp.bio', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
